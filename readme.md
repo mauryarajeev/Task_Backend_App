@@ -3,7 +3,7 @@
 # Installation
 Run the following command to clone the repository
 ```
-https://github.com/mauryarajeev/To-Do-App.git
+[https://github.com/mauryarajeev/To-Do-App.git](https://github.com/mauryarajeev/Task_Backend_App.git)
 ```
 Go to  ```backend``` directory to install packages
 
@@ -27,7 +27,7 @@ Go to ```backend``` directory and start the server
 cd backend
 nodemon server
 ```
-```
+
 
 
 
