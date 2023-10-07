@@ -1,16 +1,12 @@
-# Demo Video 
-https://youtu.be/eEoLzl5FLa0
+
 
 # Installation
 Run the following command to clone the repository
 ```
 https://github.com/mauryarajeev/To-Do-App.git
 ```
-Go to ```frontend``` and ```backend``` directory to install packages
-```
-cd frontend
-npm install
-```
+Go to  ```backend``` directory to install packages
+
 ```
 cd backend
 npm install
@@ -26,14 +22,12 @@ PORT=8000
 JWT_SECRET=a random secret key eg. thisisasecretkey
 ```
 # Run the App
-Go to ```backend``` and ```frontend``` directory and start the server
+Go to ```backend``` directory and start the server
 ```
 cd backend
 nodemon server
 ```
 ```
-cd frontend
-npm start
-```
+
 
 
